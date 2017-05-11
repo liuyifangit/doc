@@ -1,2 +1,7 @@
 Ctrl+Shift+U 大小写转化
 Ctrl+F12     查看类中的所有方法
+Ctrl+Alt+左箭头 向后回退   --ubuntu中被占用，在setting中设置keymap 搜索back,设置为Alt+左箭头
+Ctrl+Alt+右箭头 向前回退   --ubuntu中被占用，在setting中设置keymap 搜索forward,设置为Alt+右箭头
+
+
+换成eclipse 方式吧
