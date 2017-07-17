@@ -1,0 +1,20 @@
+
+
+#查看catalog
+show catalog;
+
+#查看库
+show schemas [from catalog];
+
+#现实列
+show columns from table
+
+#显示表
+SHOW TABLES [ FROM schema ] [ LIKE pattern ]
+
+#使用
+USE catalog.schema
+USE schema
+
+
+

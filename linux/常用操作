@@ -1,0 +1,5 @@
+
+
+解压zip，中文乱码
+
+unzip -O cp936 file.zip
