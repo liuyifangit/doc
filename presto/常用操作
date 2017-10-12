@@ -1,7 +1,7 @@
 
 
 #查看catalog
-show catalog;
+show catalogs;
 
 #查看库
 show schemas [from catalog];

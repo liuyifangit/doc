@@ -3,3 +3,6 @@
 解压zip，中文乱码
 
 unzip -O cp936 file.zip
+
+#查看目录结构不解压
+tar -tf xxx.tar.gz
